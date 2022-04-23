@@ -25,6 +25,28 @@
     margin-left: 0;
     margin-right: 0;
   }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 571px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 65px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: 60px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 65px;
+  }
 }.u-section-2 .u-sheet-1 {
   min-height: 581px;
 }
@@ -174,6 +196,10 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 100vh;
+  }
+
   .u-section-3 .u-text-1 {
     width: auto;
     margin-left: 8px;
