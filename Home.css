@@ -127,7 +127,7 @@
 
 .u-section-3 .u-group-1 {
   background-image: none;
-  min-height: 993px;
+  min-height: 1025px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
 }
 
@@ -174,10 +174,6 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-3 .u-sheet-1 {
-    min-height: 1190px;
-  }
-
   .u-section-3 .u-text-1 {
     width: auto;
     margin-left: 8px;
